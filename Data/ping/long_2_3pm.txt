@@ -1,3 +1,4 @@
+
 Data Measure Time: 1701720010.496621
 PING google.com (142.251.32.14) 56(84) bytes of data.
 64 bytes from ord38s33-in-f14.1e100.net (142.251.32.14): icmp_seq=1 ttl=111 time=16.8 ms
